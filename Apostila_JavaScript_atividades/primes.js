@@ -1,4 +1,4 @@
-//Exibir números primos
+//Exibir números primos de uma faixa de valores
 
 function primes(start,end){
 	
