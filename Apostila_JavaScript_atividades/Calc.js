@@ -1,4 +1,4 @@
-
+//Objeto com 4 operações básicas aritiméticas em forma de função
 
 var calc = {
 
