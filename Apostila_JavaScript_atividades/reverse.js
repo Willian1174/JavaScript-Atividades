@@ -1,3 +1,5 @@
+//Função que inverte o texto informado
+
 function reverse(text){
 	
 	var aux = text.length-1;
