@@ -1,3 +1,5 @@
+//Função que retorna maior palavra entre a frase
+
 function findLongestWord(words){
 
 	var receptor = 0;
@@ -16,8 +18,8 @@ function findLongestWord(words){
 		if(receptor < aux){
 
 			maior=frase[i];
-            
-            receptor = aux;
+			
+			receptor = aux;
 
 		}
 
