@@ -1,3 +1,5 @@
+//Embaralhando as letras aleatoriamente
+
 function scramble(text){
 	
     var word = text.split('')
@@ -8,4 +10,3 @@ function scramble(text){
 
 }
 
-scramble("Willian")
